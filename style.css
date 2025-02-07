@@ -1,0 +1,37 @@
+* {
+
+}
+
+body {
+	text-align: center;
+	font-family: "Sour Gummy", serif;
+  	font-optical-sizing: auto;
+ 	font-weight: <weight>;
+  	font-style: normal;
+  	font-variation-settings:
+    "wdth" 100;
+	background-image: url(https://w0.peakpx.com/wallpaper/546/707/HD-wallpaper-cake-cute-heart-pink-strawberry-tumblr.jpg);
+}
+
+a {
+	color: black;
+}
+
+footer {
+    background-color: #fdf0d5;
+	text-align: center;
+	padding: 7.5px;
+	color: black;
+}
+
+.container {
+	background-color: #f4acb7;
+}
+
+.card {
+	background-color: #fdf0d5;
+}
+
+.card-header {
+	font-size: 25px;
+}
